@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeekTwoChallenges", "WeekTwoChallenges.csproj", "{D98C08CB-12CB-46ED-997A-6AF6AFC33F03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W2Challenges", "W2Challenges\W2Challenges.csproj", "{2BD559C0-048E-4C15-B952-AB8FD19436B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D98C08CB-12CB-46ED-997A-6AF6AFC33F03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D98C08CB-12CB-46ED-997A-6AF6AFC33F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D98C08CB-12CB-46ED-997A-6AF6AFC33F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D98C08CB-12CB-46ED-997A-6AF6AFC33F03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BD559C0-048E-4C15-B952-AB8FD19436B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD559C0-048E-4C15-B952-AB8FD19436B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD559C0-048E-4C15-B952-AB8FD19436B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD559C0-048E-4C15-B952-AB8FD19436B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFED2A51-D451-4772-83AB-1FAE6AC76C19}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\tugan\OneDrive\Desktop\ElevenFifty Projects\Challenges\WeekTwoChallenges\W2Challenges\obj\Debug\W2Challenges.csprojAssemblyReference.cache
+C:\Users\tugan\OneDrive\Desktop\ElevenFifty Projects\Challenges\WeekTwoChallenges\W2Challenges\obj\Debug\W2Challenges.csproj.CoreCompileInputs.cache
+C:\Users\tugan\OneDrive\Desktop\ElevenFifty Projects\Challenges\WeekTwoChallenges\W2Challenges\bin\Debug\W2Challenges.exe.config
+C:\Users\tugan\OneDrive\Desktop\ElevenFifty Projects\Challenges\WeekTwoChallenges\W2Challenges\bin\Debug\W2Challenges.exe
+C:\Users\tugan\OneDrive\Desktop\ElevenFifty Projects\Challenges\WeekTwoChallenges\W2Challenges\bin\Debug\W2Challenges.pdb
+C:\Users\tugan\OneDrive\Desktop\ElevenFifty Projects\Challenges\WeekTwoChallenges\W2Challenges\obj\Debug\W2Challenges.exe
+C:\Users\tugan\OneDrive\Desktop\ElevenFifty Projects\Challenges\WeekTwoChallenges\W2Challenges\obj\Debug\W2Challenges.pdb
